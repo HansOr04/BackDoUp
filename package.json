@@ -5,6 +5,11 @@
   "repository": "https://github.com/HansOr04/BackDoUp.git",
   "author": "Hans Ortiz <hansalazar04@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@worldcoin/minikit-js": "^1.9.4",
     "axios": "^1.9.0",
@@ -20,6 +25,10 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.15.0",
     "morgan": "^1.10.0",
+    "node-cache": "^5.1.2",
+    "react": "^19.1.0",
+    "uuid": "^11.1.0",
+    "viem": "^2.29.4",
     "winston": "^3.17.0"
   },
   "devDependencies": {

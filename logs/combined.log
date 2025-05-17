@@ -1,0 +1,11 @@
+2025-05-17 16:05:53 [INFO]: Servicio de caché inicializado 
+2025-05-17 16:05:53 [INFO]: Conectando a MongoDB... 
+2025-05-17 16:05:53 [INFO]: Servidor iniciado en http://localhost:4000 
+2025-05-17 16:05:53 [INFO]: Ambiente: development 
+2025-05-17 16:05:53 [DEBUG]: Python API Request: GET /health 
+2025-05-17 16:05:53 [ERROR]: Python API No Response:  
+2025-05-17 16:05:53 [ERROR]: Python API health check failed:  
+2025-05-17 16:05:53 [WARN]: No se pudo verificar la conexión con Python backend 
+2025-05-17 16:05:55 [INFO]: Conexión a MongoDB establecida 
+2025-05-17 16:05:55 [INFO]: Conexión a MongoDB establecida 
+2025-05-17 16:06:05 [INFO]: SIGINT recibido, cerrando servidor... 
